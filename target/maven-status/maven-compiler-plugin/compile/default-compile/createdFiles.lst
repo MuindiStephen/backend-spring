@@ -1,0 +1,16 @@
+com/example/registration/email/EmailSender.class
+com/example/registration/registration/token/ConfirmationTokenService.class
+com/example/registration/security/PasswordEncoder.class
+com/example/registration/registration/RegistrationService.class
+com/example/registration/appuser/AppUserRole.class
+com/example/registration/email/EmailService.class
+com/example/registration/registration/RegistrationRequest.class
+com/example/registration/registration/token/ConfirmationTokenRepository.class
+com/example/registration/appuser/AppUserService.class
+com/example/registration/appuser/AppUserRepository.class
+com/example/registration/registration/token/ConfirmationToken.class
+com/example/registration/security/config/WebSecurityConfig.class
+com/example/registration/registration/EmailValidator.class
+com/example/registration/appuser/AppUser.class
+com/example/registration/RegistrationApplication.class
+com/example/registration/registration/RegistrationController.class
