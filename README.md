@@ -2,17 +2,17 @@
 SHAMBA APP ~ SMART MKULIMA
 ***
 ## Description
-A platform where farmers can have access to farm equipments for rental at cheaper prices, engage with crop experts by asking questions and getting responses,get crop insurance incase a disaster occurs in between farm preparation and harvesting, access to farm inputs at affordable prices  as well as sell their farm produce at profitable prices.
-This will be made possible by collaboration with Agritech companies for access to farm equipments, farm inputs and for selling farm produce too.
+************************
+This is an AgriTech based project
 ***
 ## Authors and acknowledgment
-All credit go to the RnD Eclectics for their support and to team members; Stephen-android app side and Justin-web platform side who made this project a successs.
+All credit go to the RnD  for their support and to team members; Stephen Muindi-android app side,Cornelius Mwema (Backend) and Justin-web platform side who made this project a successs.
 ***
 ## License
-This is a product of Eclectics Intl.
+This is my original product.
 ***
 ## Project status
-This project is still under development.
+This project is complete backend
 
 ***
 ***
@@ -20,21 +20,13 @@ This project is still under development.
 ***
 ## Getting started
 
-To make it easy for you to get started with GitLab, here's a list of recommended next steps.
-
-## Add your files
-- [ ] [Add files using the command line](https://docs.gitlab.com/ee/gitlab-basics/add-file.html#add-a-file-using-the-command-line) or push an existing Git repository with the following command:
-
 ```
 cd existing_repo
-git remote add origin https://vs.ekenya.co.ke:1126/rnd/attachee-projects/attachee-projects-q4/shambaapp_backend.git
+git remote add url
 git branch -M main
 git push -uf origin main
 ```
 
-## Integrate with your tools
-
-- [ ] [Set up project integrations](https://vs.ekenya.co.ke/rnd/attachee-projects/attachee-projects-q4/shambaapp_backend/-/settings/integrations)
 
 ## Collaborate with your team
 
