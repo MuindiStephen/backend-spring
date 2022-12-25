@@ -5,11 +5,41 @@ SHAMBA APP ~ SMART MKULIMA
 ************************
 This is an AgriTech based project
 ***
+
 ## Authors and acknowledgment
 All credit go to the RnD  for their support and to team members; Stephen Muindi-android app side,Cornelius Mwema (Backend) and Justin-web platform side who made this project a successs.
 ***
 ## License
 This is my original product.
+***
+## Backend functionality
+- Register and Login API for Email
+- Register and Login API for phone
+- Email OTP Verification (2nd Step Authentication)
+- Phone OTP verification (2nd Step Authentication)
+- Checking available users
+- Session Manager functionality
+
+## Backend Content
+- Spring boot Java
+- Access tokes
+- Refresh tokens
+- JWTs
+- Json
+- Bearer tokens
+- Request Params
+- Requests
+- Responses
+- Cryptography for encryption
+- Session Manager
+- Cipher 
+- Authorization
+- POST
+- GET
+- @Query()
+- @Path()
+
+
 ***
 ## Project status
 This project is complete backend
