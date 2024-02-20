@@ -1,18 +1,5 @@
-## Name
-SHAMBA APP ~ SMART MKULIMA
-***
-## Description
-************************
-This is an AgriTech based project
-***
-
-## Authors and acknowledgment
-All credit go to the RnD  for their support and to team members; Stephen Muindi-android app side,Cornelius Mwema (Backend) and Justin-web platform side who made this project a successs.
-***
-## License
-This is my original product.
-***
-## Backend functionality
+## Backend spring
+## Backend features
 - Register and Login API for Email
 - Register and Login API for phone
 - Email OTP Verification (2nd Step Authentication)
